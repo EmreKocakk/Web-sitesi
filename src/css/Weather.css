@@ -1,0 +1,22 @@
+.weather-wrap{
+    background: url(../img/weather.png);
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 50px;
+}
+.weather-container{
+    font-size: 30px;
+    font-weight: 600;
+}
+@media screen and (min-width: 800px) and (max-width: 1280px) {
+    .Ulke, .Sehir, .Sıcaklık, .Hıssedılen, .Hava-durumu{
+        font-size: 60px;
+    } 
+    .weather-wrap h1{
+        font-size: 60px;
+    }   
+}

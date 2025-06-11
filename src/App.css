@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    user-select: none;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+html {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+@media screen and (max-width: 480px) {
+    body{
+      width: auto;
+      overflow-x: hidden;
+    }
+}
