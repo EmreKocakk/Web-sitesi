@@ -1,5 +1,7 @@
 # Bursa Tanıtım Web Sitesi 
 
+Proje Linki: https://bursatanitim.netlify.app/
+
 Bu proje, Türkiye'nin tarihî ve doğal güzellikleriyle ünlü olan Bursa şehrini tanıtmak amacıyla oluşturulmuş bir web sitesidir. React kullanılarak geliştirilmiştir.
 
 ##  Projenin Amacı
